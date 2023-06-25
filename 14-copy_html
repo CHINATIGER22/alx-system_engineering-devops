@@ -1,2 +1,0 @@
-#!/bin/bash
-#!/bin/bash cd ../14-copy_html cp -v "$f" ../../alx-system_engineering-devops/"$ {f%.html}"
