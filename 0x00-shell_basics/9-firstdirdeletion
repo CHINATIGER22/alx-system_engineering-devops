@@ -1,5 +1,2 @@
 #!/bin/bash
-$ ./9-firstdirdeletion
-$ file /tmp/my_first_director
-$ rm -r my_first_director
-$
+rm -rf /tmp/my_first_directory

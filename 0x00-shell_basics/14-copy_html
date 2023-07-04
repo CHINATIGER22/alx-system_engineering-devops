@@ -1,2 +1,3 @@
+14-copy_html
 #!/bin/bash
-#!/bin/bash cd ../14-copy_html cp -v "$f" ../../alx-system_engineering-devops/"$ {f%.html}"
+cp -u *.htm ..
